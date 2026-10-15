@@ -1,0 +1,99 @@
+#EXTM3U
+# Lista parcial generada desde los enlaces visibles del JSON de referencia.
+# Incluye solo entradas sin campos DRM; no se verificó la disponibilidad ni la autorización de redistribución.
+
+#EXTINF:-1 tvg-id="snt" tvg-name="SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="TV Paraguay",SNT
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="telefuturo" tvg-name="TELEFUTURO" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="TV Paraguay",TELEFUTURO
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="monumental1080" tvg-name="MONUMENTAL 1080 AM" tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="TV Paraguay",MONUMENTAL 1080 AM
+https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="npy" tvg-name="NPY" tvg-logo="https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png" group-title="TV Paraguay",NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="telefe-py" tvg-name="TELEFE PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF_k8seR1DeQ_yLaf2z22qvL8Hm0xpN3QkqGBUbckJg&s" group-title="TV Paraguay",TELEFE PY
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="mega-tv" tvg-name="MEGA TV" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="TV Paraguay",MEGA TV
+https://www.desde-paraguay.com/mega.m3u8
+
+#EXTINF:-1 tvg-id="paraguay-tv" tvg-name="PARAGUAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KeH_DRcDH-my7B90GpKy2o_pg0yhVCwnC-AfTgKPOg&s=10" group-title="TV Paraguay",PARAGUAY TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+
+#EXTINF:-1 tvg-id="canal-pro" tvg-name="CANAL PRO" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png" group-title="TV Paraguay",CANAL PRO
+https://www.desde-paraguay.com/pro.m3u8
+
+#EXTINF:-1 tvg-id="c9n" tvg-name="C9N" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZgi3dH4dGXTmCnl2WIU5_FDruZHUYhHE1yQNdJpEow&s=10" group-title="TV Paraguay",C9N
+https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="latele" tvg-name="LA TELE" tvg-logo="https://i.ibb.co/Zg861M4/latele.png" group-title="TV Paraguay",LA TELE
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="nanduti-tv" tvg-name="ÑANDUTI TV" tvg-logo="https://i.ibb.co/3TJQVdt/nandutitv.png" group-title="TV Paraguay",ÑANDUTI TV
+https://nanduti.b-cdn.net/Source.m3u8
+
+#EXTINF:-1 tvg-id="hei" tvg-name="HEI" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="TV Paraguay",HEI
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-id="educanal" tvg-name="EDUCANAL" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="TV Paraguay",EDUCANAL
+https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="venus-media" tvg-name="VENUS MEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2fu92BzpGT51fo_D33BCXw0LOQGYsLebIrQtFQKwgQ&s=10" group-title="TV Paraguay",VENUS MEDIA
+https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rock-pop" tvg-name="ROCK & POP" tvg-logo="https://i.ibb.co/MMYLRZV/rocka.png" group-title="TV Paraguay",ROCK & POP
+https://rds3gen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e40" tvg-name="E40" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="TV Paraguay",E40
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="radio-farra" tvg-name="RADIO FARRA" tvg-logo="https://i.ibb.co/99DzY4J/farra-play.png" group-title="TV Paraguay",RADIO FARRA
+https://stream.farra.com.py/live/farra.m3u8
+
+#EXTINF:-1 tvg-id="bruno-masi-tv" tvg-name="BRUNO MASI TV" tvg-logo="https://i.ibb.co/pK5SNMT/bruno-masi-tv.png" group-title="TV Paraguay",BRUNO MASI TV
+https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="next" tvg-name="NEXT" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="TV Paraguay",NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="4d-mas-noticias" tvg-name="4D MÁS NOTICIAS" tvg-logo="https://i.ibb.co/Vw7gVWz/4d-noticias.png" group-title="TV Paraguay",4D MÁS NOTICIAS
+https://rds3gen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aspen" tvg-name="ASPEN" tvg-logo="https://i.ibb.co/sJRyc31/aspen-classic.png" group-title="TV Paraguay",ASPEN
+https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="union-tv" tvg-name="UNIÓN TV" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="TV Paraguay",UNIÓN TV
+https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="republica-1013" tvg-name="RADIO/TV REPÚBLICA 101.3 FM" group-title="TV Paraguay",RADIO/TV REPÚBLICA 101.3 FM
+https://rds3gen.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="productiva-tv" tvg-name="PRODUCTIVA TV" group-title="TV Paraguay",PRODUCTIVA TV
+https://rds3gen.desdeparaguay.net/productivatv/productivatv_baja/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="regional-tv" tvg-name="CANAL 12 REGIONAL TV" group-title="TV Paraguay",CANAL 12 REGIONAL TV
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+
+#EXTINF:-1 tvg-id="mi-tv-itapua" tvg-name="MI TV ITAPÚA" group-title="TV Paraguay",MI TV ITAPÚA
+https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua
+
+#EXTINF:-1 tvg-id="vision-tv-villarrica" tvg-name="VISIÓN TV VILLARRICA" group-title="TV Paraguay",VISIÓN TV VILLARRICA
+https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="caritas-tv" tvg-name="CÁRITAS TV" group-title="TV Paraguay",CÁRITAS TV
+https://rds3gen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nandejara-nee" tvg-name="ÑANDEJARA ÑE´E TV" group-title="TV Paraguay",ÑANDEJARA ÑE´E TV
+https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rcc" tvg-name="RCC" group-title="TV Paraguay",RCC
+https://rds3.desdeparaguay.net/rcctv/rcctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv-chaquena" tvg-name="TV CHAQUEÑA" group-title="TV Paraguay",TV CHAQUEÑA
+https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tva-coronel-oviedo" tvg-name="TVA CORONEL OVIEDO" group-title="TV Paraguay",TVA CORONEL OVIEDO
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
